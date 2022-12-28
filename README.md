@@ -7,10 +7,10 @@
 добавлением/удалением повтов в закладки 
 и просмотром полного текста отдельного поста.
 Также проект содержит api для получения json данных по всем постам
-и json данные поста по id. 
+и json данных поста по id. 
 
 ### Демо
-[![Demo](https://drive.google.com/thumbnail?authuser=0&sz=w1280&id=1yn704qL7xyRA0jlTb2ReRbBKljpeMhUk)](https://drive.google.com/file/d/1yn704qL7xyRA0jlTb2ReRbBKljpeMhUk/view?usp=sharing "Demo")
+[![Demo](https://drive.google.com/thumbnail?authuser=0&sz=w1280&id=1AVLVkLn2sNZkKC9HDMNbjzc8Hzsd3lII)](https://drive.google.com/file/d/1AVLVkLn2sNZkKC9HDMNbjzc8Hzsd3lII/view?usp=share_link "Demo")
 
 ### Состав
 
